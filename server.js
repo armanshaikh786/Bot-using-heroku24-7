@@ -62,4 +62,4 @@ bot.on("message", async message => {
   
 });
 
-bot.login("");
+bot.login("NjA5MDQ2MjI1NDcxMTQzOTM2.XUxLWA.reepFxYQQ3WEUnN6udm8RRvc_TU");
